@@ -1,8 +1,8 @@
 import React from "react"
 import Head from "next/head"
 
-import Header from "../layout/Header"
-import Footer from "../layout/Footer"
+import Header from "./Footer"
+import Footer from "./Header"
 
 // import { ToastContainer } from "react-toastify"
 // import "react-toastify/dist/ReactToastify.css"
